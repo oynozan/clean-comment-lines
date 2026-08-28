@@ -77,8 +77,8 @@ Two before and after pairs live in `examples/`, one Auth.js config and one
 Mongoose schema. When a comment is borderline, read the pair closest to the
 file you are editing:
 
-- [examples/auth/bad.ts](examples/auth/bad.ts) and [examples/auth/good.ts](examples/auth/good.ts)
-- [examples/db-model/bad.ts](examples/db-model/bad.ts) and [examples/db-model/good.ts](examples/db-model/good.ts)
+- [examples/auth/bad.md](examples/auth/bad.md) and [examples/auth/good.md](examples/auth/good.md)
+- [examples/db-model/bad.md](examples/db-model/bad.md) and [examples/db-model/good.md](examples/db-model/good.md)
 
 ---
 
