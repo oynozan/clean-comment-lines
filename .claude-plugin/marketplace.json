@@ -1,0 +1,17 @@
+{
+  "name": "clean-comment-lines",
+  "owner": {
+    "name": "oynozan",
+    "url": "https://github.com/oynozan"
+  },
+  "description": "Clean comment line skill for coding agents",
+  "plugins": [
+    {
+      "name": "clean-comment-lines",
+      "source": "./",
+      "description": "Stops coding agents over-commenting and writing unnecessary comments.",
+      "category": "productivity",
+      "keywords": ["comments", "code-style", "code-quality", "refactoring"]
+    }
+  ]
+}
